@@ -1,1 +1,3 @@
 power bi is developed by microsoft
+used for create dashboards from raw data
+to turn into easy understandable data.
